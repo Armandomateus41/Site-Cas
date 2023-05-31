@@ -1,0 +1,25 @@
+ 
+
+/*==========================*/
+
+.theme-mi-slider .nivoSlider{
+	position:relative;
+}
+
+.theme-mi-slider .nivoSlider a {
+	border:0;
+	display:block;
+}
+
+.nivo-controlNav{
+	display: flex;
+	justify-content: center;
+}
+
+.theme-meu-slider .nivo-control{
+	display: block;
+	widht: 18px;
+	height: 18px;
+	border-radius: 50%;
+	background: #545454;
+}
